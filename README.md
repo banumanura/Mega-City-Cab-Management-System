@@ -22,7 +22,6 @@ A dynamic web application designed for internal company use to manage cab bookin
 - **BCrypt** for password hashing
 
 ```
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
