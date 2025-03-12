@@ -21,7 +21,6 @@ A dynamic web application designed for internal company use to manage cab bookin
 - **Maven**
 - **BCrypt** for password hashing
 
-```
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
@@ -79,3 +78,10 @@ startup.bat   # For Windows
 - Implement session timeout and activity logging.
 - Enhance UI using modern front-end frameworks.
 - Generate downloadable reports in PDF format.
+
+## 🤝 Contribution
+1. Fork the repository.
+2. Create a new branch.
+3. Make changes and commit.
+4. Push to the branch.
+5. Create a Pull Request.
