@@ -58,7 +58,7 @@ cd /path/to/tomcat/bin
 ./startup.sh  # For Linux/Mac
 startup.bat   # For Windows
 ```
-- Access the application at http://localhost:8080/mega-city-cab
+- Access the application at http://localhost:8080/MegaCityCab
 
 ## ✅ Usage
 1. **Login:** Use the default credentials provided in the SQL script.
