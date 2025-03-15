@@ -1,0 +1,9 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="3.1">
+    <display-name>MegaCityCab</display-name>
+    <welcome-file-list>
+    <welcome-file>login.jsp</welcome-file>
+</welcome-file-list>
+
+
+    
+</web-app>
