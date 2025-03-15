@@ -40,7 +40,7 @@ USE mega_city_cab;
 ### 3. Configure Database Connection
 - Update the database configuration in `util/DBConnection.java`:
 ```java
-private static final String URL = "jdbc:mysql://localhost:3306/mega_city_cab";
+private static final String URL = "jdbc:mysql://localhost:3306/MegaCityCab_DB";
 private static final String USER = "root";
 private static final String PASSWORD = "your_password";
 ```
