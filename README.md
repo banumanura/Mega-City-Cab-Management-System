@@ -1,6 +1,6 @@
 # 🚕 Mega City Cab Management System
 
-A dynamic web application designed for internal company use to manage cab bookings, vehicle and driver details, employee records, and report generation. This project is developed using **Java 1.8, Tomcat 9, MySQL**, and follows **SOLID principles** with proper design patterns for scalability and maintainabilit .  
+A dynamic web application designed for internal company use to manage cab bookings, vehicle and driver details, employee records, and report generation. This project is developed using **Java 1.8, Tomcat 9, MySQL**, and follows **SOLID principles** with proper design patterns for scalability and maintainabilit.  
 
 ## 🚀 Features
 
